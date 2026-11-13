@@ -1,0 +1,43 @@
+{
+  "rows": [
+    {
+      "row_id": "t1",
+      "calls": [
+        {
+          "tool": "chat",
+          "args": [
+            1,
+            null,
+            1
+          ]
+        },
+        {
+          "tool": "code",
+          "args": []
+        }
+      ],
+      "labels": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "row_id": "t2",
+      "calls": null,
+      "labels": []
+    },
+    {
+      "row_id": "t3",
+      "labels": [
+        "z"
+      ]
+    },
+    {
+      "row_id": "t4",
+      "calls": [
+        null
+      ],
+      "labels": null
+    }
+  ]
+}
